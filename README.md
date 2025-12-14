@@ -17,9 +17,10 @@ A lightweight and user-friendly **Android Dictionary Application** that allows u
 ## Screenshots
 
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <img src="images/dictionary_main_screen.jpg" alt="Main Screen" style="width: 250px; height: auto;" />
-  <img src="images/dictionary_search_screen.jpg" alt="Search Screen" style="width: 250px; height: auto;" />
-  <img src="images/dictionary_detail_screen.jpg" alt="Detail Screen" style="width: 250px; height: auto;" />
+  <img src="images/dictionary_app_main.jpg" alt="Main Screen" style="width: 250px; height: auto;" />
+  <img src="images/dictionary_app_bookmarks.jpg" alt="Search Screen" style="width: 250px; height: auto;" />
+  <img src="images/dictionary_app_3.jpg" alt="Detail Screen" style="width: 250px; height: auto;" />
+  <img src="images/dictionary_app_info.jpg" alt="Detail Screen" style="width: 250px; height: auto;" />
 </div>
 
 ---
